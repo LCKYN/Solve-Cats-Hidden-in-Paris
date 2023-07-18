@@ -15,3 +15,5 @@ max_y = [max vertical screen]
 3. move screen to top
 4. run script
 5. wait
+
+example : https://youtu.be/3xjBjc5e2Vg 
