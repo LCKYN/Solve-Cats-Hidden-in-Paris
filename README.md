@@ -10,8 +10,8 @@ max_x = [max horizontal screen]
 max_y = [max vertical screen]
 ```
 
-1 start
-2 zoom out
-3 move screen to top
-4 run script
-5 wait
+1. start
+2. zoom out
+3. move screen to top
+4. run script
+5. wait
